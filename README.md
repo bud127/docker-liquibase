@@ -13,6 +13,8 @@ The following drivers have been included:
 
 - H2 JDBC 1.4.195
 - Oracle JDBC 8 12.2.0.1
+- Mysql 5.1.47
+- postgresql 9
 
 
 ## Supported tags and respective Dockerfile links
