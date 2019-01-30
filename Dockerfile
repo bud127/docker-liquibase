@@ -1,7 +1,5 @@
 FROM openjdk:8-jdk-alpine
 
-LABEL maintainer "ferrari.marco@gmail.com"
-
 RUN apk add --update \
   bash \
   curl \
